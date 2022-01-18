@@ -20,4 +20,4 @@
 - CSS
 - GIT
 
-<footer style="text-align:center">Desenvolvivo com ❤ por Lucas P.</footer>
+<footer style="text-align:center">Desenvolvido com ❤ por Lucas P.</footer>
